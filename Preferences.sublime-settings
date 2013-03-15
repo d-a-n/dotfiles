@@ -1,0 +1,8 @@
+{
+	"open_files_in_new_window": false,
+	"close_windows_when_empty": true,
+	"highlight_line": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"remember_open_files": false
+}
