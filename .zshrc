@@ -1,5 +1,5 @@
 
-source .dotfiles/antigen/antigen.zsh
+source ~/.dotfiles/antigen/antigen.zsh
 
 antigen use oh-my-zsh
 
@@ -29,6 +29,9 @@ else
   export EDITOR='vimr'
   alias vim="vimr"
 fi
+
+alias ll="ls -lah"
+
 
 # history settings
 HISTFILE=$HOME/.zsh_history
